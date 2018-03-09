@@ -1,0 +1,12 @@
+Espero que todos estejam construindo e trabalhando na construção do robô, de acordo com as intruções que passei.
+
+Vamos programar a apresentação para o dia 22/11/2016, no horário de aula.
+
+O robô deverá ser capaz de realizar diferentes trajetórias, de acordo com o solicitado:
+
+Mover-se em linha reta;
+Mudar sua direção de um angulo especificado;
+Mover em trajetórias circulares com raios a partir de zero cm, até um valor qualquer solicitado;
+Se mover numa trajetória com a forma de um polígono qualquer;
+Se mover numa trajetória elíptica;
+Se mover no interior de uma labirinto.
